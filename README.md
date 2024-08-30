@@ -8,3 +8,4 @@
 <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabyyMacedo&layout=donut-vertical&icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
