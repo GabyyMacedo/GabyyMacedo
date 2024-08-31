@@ -27,7 +27,6 @@
 
 <div align="center"> 
 
-![IntelliJ](https://img.shields.io/badge/IntelliJ-8250b5.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-470.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-4708D6?style=for-the-badge&logo=windows&logoColor=white)
