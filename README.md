@@ -2,6 +2,14 @@
 
 # Hello World! I'm Gaby!
 
+- ##  Sobre mim
+  
+<div>
+ 👩🏻‍💻 Estudante do Instituto Federal de São Paulo
+
+ <br>💻Curso de Desenvolvimento de Sistemas [2/4]
+</div>
+
 - ##  Tecnologias
 
 <div align="center">
