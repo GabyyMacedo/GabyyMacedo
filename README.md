@@ -26,6 +26,7 @@
         <img align="center" alt="JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
         <img align="center" alt="github" height="70" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
         <img align="center" alt="javascript" height="70" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+        <img align="center" alt=eclipse" height="70" width="45" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
     </div>
 </div>
 
