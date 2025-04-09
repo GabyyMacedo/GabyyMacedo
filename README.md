@@ -41,7 +41,7 @@
 ![Linux](https://img.shields.io/badge/linux-%23a19f33?style=for-the-badge&logo=linux&logoColor=%23ffffff)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)      
-![Eclipse](https://img.shields.io/badge/Eclipse-%2300C2CC.svg?style=for-the-badge&logo=Eclipse&logoColor=blue)
+![Eclipse](https://img.shields.io/badge/Eclipse-%2300C2CC.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
 </br>
 
