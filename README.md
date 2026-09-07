@@ -7,7 +7,7 @@
 <div>
  👩🏻‍💻 Estudante do Instituto Federal de São Paulo
 
- <br>💻Curso de Desenvolvimento de Sistemas [3/4]
+ <br>💻Curso de Desenvolvimento de Sistemas [4/4]
 </div>
 
 - ##  Tecnologias
